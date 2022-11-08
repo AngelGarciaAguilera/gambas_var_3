@@ -1,0 +1,15 @@
+# Gambas Form File 3.0
+
+{ Form Form
+  MoveScaled(0,0,55,47)
+  { LResult Label
+    MoveScaled(5,7,44,22)
+    Font = Font["+7"]
+    Alignment = Align.Center
+    Text = ("RESULTADO")
+  }
+  { BMostrar Button
+    MoveScaled(18,33,19,5)
+    Text = ("Mostrar Nombre")
+  }
+}

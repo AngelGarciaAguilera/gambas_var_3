@@ -1,0 +1,9 @@
+' Gambas class file
+
+Private nombre As String = "Ángel García Aguilera"
+
+Public Sub BMostrar_Click()
+
+  LResult.Text = nombre
+
+End
